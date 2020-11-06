@@ -6,8 +6,8 @@
 - Interfaces: A Contract that specifies the capabilities that a class should provide. Solution to coupling.
 - Encapsulation: private and public are examples of access modifiers. Use getters and setters
 - Abstraction: Reduce complexity by hiding unnessary details.
-- Inheritance
-- Polymorphism
+- Inheritance: Mechanism for reusing code across classes
+- Polymorphism: Ability of object to take on many forms. Abstract class and method.
 
 ## SOLID Principles
 - Single Responsibility: a class should only have one responsibility
@@ -39,9 +39,9 @@
 
 ## Behavioral Patterns
 ### Memento
-- Without violating encapsulation, capture and externali ze an object's internal state so that the object can be restored to this st ate later.
+- Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.
 ### State
-- Allow an object to alter its behavior when its internal state changes. The object will appear to change its cl ass.
+- Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.
 ### Iterator
 - Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 ### Strategy
@@ -51,13 +51,13 @@
 ### Command
 - Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
 ### Observer
-- Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically
+- Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 ### Mediator
-- Define an object that encapsulates how a set of objects interact. Mediator promotes l oose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+- Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
 ### Chain of Responsibility
 - Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
 ### Visitor
-- Represent an operation to be performed on the elements of an object structure. Visi tor lets you define a new operation without changing the clas sesof the elements on which it operates.
+- Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
 ### Interpreter
 - Given a language, define a represention for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
 
