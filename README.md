@@ -1,20 +1,20 @@
 # Object Oriented Programming
 
 ## Object Oriented Fundamentals
-- Classes
-- Coupling
-- Interfaces
-- Encapsulation
-- Abstraction
+- Classes: Constructors are methods that gets called when you create a new instance of the class
+- Coupling: Problem - How much a class is coupled or dependent on another class
+- Interfaces: A Contract that specifies the capabilities that a class should provide. Solution to coupling.
+- Encapsulation: private and public are examples of access modifiers. Use getters and setters
+- Abstraction: Reduce complexity by hiding unnessary details.
 - Inheritance
 - Polymorphism
 
 ## SOLID Principles
-- Single Responsibility
-- Open/Closed
-- Liskov Substitution
-- Interface Segregation
-- Dependency Inversion
+- Single Responsibility: a class should only have one responsibility
+- Open/Closed: classes should be open for extension, but closed for modification
+- Liskov Substitution: if class A is a subtype of class B, then we should be able to replace B with A without disrupting the behavior of our program
+- Interface Segregation: larger interfaces should be split into smaller ones
+- Dependency Inversion: instead of high-level modules depending on low-level modules, both will depend on abstractions
 
 ## Unified Modeling Language (UML)
 - Introduction: https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=lbp
