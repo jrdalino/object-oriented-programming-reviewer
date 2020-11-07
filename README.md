@@ -104,8 +104,8 @@
 - Provide an interface for creating families of related or dependent objects without specifying their concrete cl asses
 #### Builder
 - Separate the construction of a complex object from its representation so that the same construction process can create different representations
-#### Factory
-- Define an interface for creating an obje ct,but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+#### Factory Method **
+- Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 #### Prototype
 - Specify the kinds of obj ectsto crea te using a prototypical instance, and create new objec ts by copying this prototype.
 #### Singleton
