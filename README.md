@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-## Prerequisite: Object Oriented Fundamentals
+## Object Oriented Fundamentals
 - Classes: Constructors are methods that gets called when you create a new instance of the class
 - Coupling: Problem - How much a class is coupled or dependent on another class
 - Interfaces: A Contract that specifies the capabilities that a class should provide. Solution to coupling.
@@ -9,14 +9,14 @@
 - Inheritance: Mechanism for reusing code across classes
 - Polymorphism: Ability of object to take on many forms. Abstract class and method.
 
-## Prerequisite: Principles of Design - SOLID
+## Principles of Design - S.O.L.I.D.
 - Single Responsibility: a class should only have one responsibility
 - Open/Closed: classes should be open for extension, but closed for modification
 - Liskov Substitution: if class A is a subtype of class B, then we should be able to replace B with A without disrupting the behavior of our program
 - Interface Segregation: larger interfaces should be split into smaller ones
 - Dependency Inversion: instead of high-level modules depending on low-level modules, both will depend on abstractions
 
-## Prerequisite: Software Development Processes
+## Software Development Processes
 - Software Project Cycle: Planning (Business Modeling) > Requirements > Analysis > Design > Implementaton > Test > Deployment (Software Product) > Evaluation & Maintenance
 - Object Oriented Analysis and Design: URS > Requirements Modeling > Use Case Model > Analysis Modeling > Analysis Model > Design Modeling > Design Model > Software Architecture
 - Incremental and Iterative Model
@@ -24,7 +24,7 @@
 - Scrum: Product Owner interviews Stakeholders and adds Items to Product Backlog > Team does Spring Planning > Spring Backlog > Daily Scrum + Sprint + Product Backlog Refinement > Potentially Shippable Product Increment > Spring Review + Retrospective
 - Agile Model Driven Development (AMDD)
 
-## Prerequisite: Unified Modeling Language (UML)
+## Unified Modeling Language (UML)
 - Introduction: https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=lbp
 - Overview: https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/?ref=lbp
 - Conceptual Model: https://www.geeksforgeeks.org/conceptual-model-of-the-unified-modeling-language-uml/?ref=lbp
@@ -32,15 +32,6 @@
 - UML > Structural > Class Diagrams
 
 ## Design Patterns
-- 1.a Solving Design Problems using Patterns
-- 1.b Design Patterns in Software Development Process
-- 2 Principles of Design
-- 3 Understanding Design Patterns > Workshop 1
-- 4 Applying Design Patterns (Structural) > Workshop 2
-- 5 Applying Design Patterns (Behavioural) > Workshop 3
-- 6 Selecting and Using Design Patterns > Workshop 4
-- 7 Refactoring to Patterns
-- 8 Design Case Study > Presentations
 
 ### Behavioral Patterns
 #### Memento
