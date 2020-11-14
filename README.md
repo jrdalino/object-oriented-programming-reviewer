@@ -28,22 +28,8 @@
 - Introduction: https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=lbp
 - Overview: https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/?ref=lbp
 - Conceptual Model: https://www.geeksforgeeks.org/conceptual-model-of-the-unified-modeling-language-uml/?ref=lbp
-
-### UML > Behavioral
-- Activity Diagrams https://www.geeksforgeeks.org/unified-modeling-language-uml-activity-diagrams/?ref=lbp
-- Interaction > Sequence Diagrams https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/?ref=lbp
-- Interaction > Communication Diagrams
-- Interaction > Timing Diagrams
-- State Machine Diagrams https://www.geeksforgeeks.org/unified-modeling-language-uml-state-diagrams/?ref=lbp
-- Use Case Diagrams
-
-### UML > Structural
-- Class Diagrams
-- Component Diagrams
-- Composite Structure Diagrams
-- Deployment Diagrams
-- Object Diagrams https://www.geeksforgeeks.org/unified-modeling-language-uml-object-diagrams/?ref=lbp
-- Package Diagrams
+- UML > Behavioral > Interaction > Sequence Diagrams https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/?ref=lbp
+- UML > Structural > Class Diagrams
 
 ## Design Patterns
 - 1.a Solving Design Problems using Patterns
@@ -63,7 +49,7 @@
 - Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.
 #### Iterator
 - Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
-#### Strategy **
+#### Strategy
 - Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 - Strategy defines an interface for a family of algorithms
 - ConcreteStrategy implements a compliant algorithm
