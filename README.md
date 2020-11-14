@@ -90,3 +90,11 @@
 
 ## References:
 - Design Patterns: Elements of Reusable Object-Oriented Software” by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
+- NICF- Object Oriented Design Patterns (SF) References: https://www.iss.nus.edu.sg/executive-education/course/detail/nicf--object-oriented-design-patterns-(sf)/software-systems
+- General: https://www.geeksforgeeks.org/software-engineering/
+- OO Concepts: https://documentation.progress.com/output/ua/OpenEdge_latest/index.html#page/gsdev/object-oriented-concepts-overview.html
+- UML Diagrams: https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/
+- Programming Foundations ‐ Object‐Oriented Design from lynda.com: https://www.lynda.com/Python-tutorials/Programming-Foundations-Object-Oriented-Design/731735-2.html
+- OO Modelling with Software Design Principles: (Object‐Oriented Design: https://www.coursera.org/learn/object-oriented-design
+- UML and Object‐Oriented Design Foundations: https://www.udemy.com/course/uml-and-object-oriented-design-foundations/
+- UML Specification by OMG: https://www.omg.org/spec/UML#document%E2%80%90metadata
