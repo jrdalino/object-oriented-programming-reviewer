@@ -35,13 +35,31 @@
 
 ### Behavioral Patterns
 #### Strategy **
+- Client selects the ConcreteStrategy via the Context
+- Context
 - Strategy defines an interface for a family of algorithms
 - ConcreteStrategy implements a compliant algorithm
-- Client selects the ConcreteStrategy via the Context
 #### Iterator **
+- Client runs createIterator()
+- Iterator defines an interface for accessing and traversing Aggregate
+- ConcreteIterator
+- Aggregate
+- ConcreateAggregator create ConcreteIterator
 #### Memento **
+- Originator
+- Memento
+- Caretaker
 #### Observer **
+- Subject
+- ConcreteSubject
+- Observer
+- ConcreteObserver
 #### Command **
+- Client
+- Invoker
+- Command
+- ConcreteCommand
+- Receiver
 #### State
 #### Template Method
 #### Mediator
@@ -52,7 +70,15 @@
 ### Structural Patterns
 #### Bridge **
 #### Composite **
+- Client
+- Component
+- Leaf
+- Composite
 #### Decorator **
+- Component
+- ConcreteComponent
+- Decorator
+- ConcreteDecorator
 #### Adapter
 #### Facade
 #### Flyweight
@@ -60,6 +86,10 @@
 
 ### Creational Patterns
 #### Factory Method **
+- Creator defines an interface for creating a Product
+- ConcreteCreator decides which ConcreteProduct to create
+- ConcreteProduct
+- Product
 #### Builder
 #### Singleton
 #### Abstract Factory
