@@ -65,6 +65,8 @@
 - State
 - ConcreteState
 #### Template Method
+- AbstractClass
+- ConcreteClass
 #### Mediator
 #### Chain of Responsibility
 #### Visitor
