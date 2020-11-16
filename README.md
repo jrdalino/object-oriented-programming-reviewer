@@ -61,6 +61,9 @@
 - ConcreteCommand
 - Receiver
 #### State
+- Context
+- State
+- ConcreteState
 #### Template Method
 #### Mediator
 #### Chain of Responsibility
